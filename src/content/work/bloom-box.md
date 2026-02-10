@@ -1,11 +1,11 @@
 ---
-title: Bloom Box
+title: Echoes within painting
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img: /assets/echoes_within_painting.jpg
+img_alt: echoes within painting
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  WLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. 
+  In hac habitasse platea dictumst. 
 tags:
   - Dev
   - Branding
