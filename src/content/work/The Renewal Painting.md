@@ -1,8 +1,8 @@
 ---
-title: Echoes within painting
+title: The Renewal Painting
 publishDate: 2019-12-01 00:00:00
-img: /assets/echoes_within_painting.jpg
-img_alt: echoes within painting
+img: /assets/the_renewal_painting.jpg
+img_alt: The Renewal Painting
 description: |
   WLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. 
   In hac habitasse platea dictumst. 
